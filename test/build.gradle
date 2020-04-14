@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.github.dcendents.android-maven'//this
-group='com.github.Yumikolab'//this
+//apply plugin: 'com.github.dcendents.android-maven'//this
+//group='com.github.Yumikolab'//this
 
 android {
     compileSdkVersion 28
